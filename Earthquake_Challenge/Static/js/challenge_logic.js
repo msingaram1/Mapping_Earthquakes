@@ -207,7 +207,7 @@ legend.onAdd = function() {
     style: tectonicStyle
 
   }).addTo(tectonics);
-
+});
   tectonics.addto(map);
   });
-});
+
