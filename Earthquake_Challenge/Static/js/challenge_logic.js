@@ -38,7 +38,7 @@ let baseMaps = {
 // 1. Add a 2nd layer group for the tectonic plate data.
 let allEarthquakes = new L.LayerGroup();
 let tectonics = new L.layerGroup();
-let majorEarthquakes = new.L.layerGroup();
+let majorEarthquakes = new L.layerGroup();
 
 
 // 2. Add a reference to the tectonic plates group to the overlays object.
